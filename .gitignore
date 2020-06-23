@@ -1,0 +1,6 @@
+/venv/
+.idea/*
+/sonarr.db
+/nzbdrone.db
+scratch
+*___jb_tmp___
