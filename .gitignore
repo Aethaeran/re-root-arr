@@ -6,3 +6,5 @@ scratch
 *___jb_tmp___
 radarr.db
 sonarr.db
+*.db-wal
+*.db-shm
