@@ -4,3 +4,5 @@
 /nzbdrone.db
 scratch
 *___jb_tmp___
+radarr.db
+sonarr.db
